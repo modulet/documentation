@@ -3,4 +3,9 @@ Welcome to MODULET!
 =========================================
 
 
-Please note that this documentation is a work in progress!
+Modulet is a rather smexy python framework for running python inside of HTML like this:
+
+  <%
+  def HW():
+    print "Hello World!"
+  %>
