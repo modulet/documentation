@@ -7,5 +7,5 @@ Modulet is a rather smexy python framework for running python inside of HTML lik
 
   <%
   def HW():
-    print "Hello World!"
+    print("Hello World!")
   %>
